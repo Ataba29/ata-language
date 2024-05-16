@@ -1,0 +1,1 @@
+this is currently a work in progress, this project is a compiler written in c++ in order to compile a new language that I'm creating called ata, basically reading the input file with a lexer and a parser then a generator in order to generate a asm file 
